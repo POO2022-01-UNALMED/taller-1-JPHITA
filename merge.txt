@@ -1,0 +1,1 @@
+no estoy seguro a que se refieren, desde que hice un cambio me dejo hacer commit, y hacer push

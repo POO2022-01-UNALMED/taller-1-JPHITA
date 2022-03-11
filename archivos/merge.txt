@@ -1,3 +1,8 @@
+
 Juan Nicolas Piedrahita Salas
 22 años
 lo primero es que aspiro a pasar la materia :v, y tambien aspiro a aprender cosas nuevas
+
+no estoy seguro a que se refieren, desde que hice un cambio me dejo hacer commit, y hacer push
+
+porque podria generar conflictos entre los archivos, haciendo que se sobreescriban o eliminen partes de los archivos que pueden ser importantes

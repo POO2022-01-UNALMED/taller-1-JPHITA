@@ -1,3 +1,5 @@
 Ingrese a continuación su primer apellido: Piedrahita
 
 Ingrese a continuación su segundo apellido: Salas
+
+no hubieron conflictos porque en la rama_1 se modifico la primera linea y en la rama_2 se modifico la segunda linea, pero no se modifico lo mismo en ambas ramas
